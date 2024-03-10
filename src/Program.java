@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Program {
     /*
         Programa Contribuintes OO e Lista desenvolvido por Marcos Ferreira Shirafuchi
-        Data: 12/03/2024
+        Data: 10/03/2024
      */
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
